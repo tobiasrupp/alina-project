@@ -85,12 +85,12 @@ nav a:hover {
 
 .flower1 {
 	position: absolute;
-	top: 55%;
+	top: 20%;
 }
 
 .flower2 {
 	position: absolute;
-	top: 40%;
+	top: 30%;
 }
 
 .flower3 {
@@ -101,49 +101,49 @@ nav a:hover {
 
 .flower4 {
 	position: absolute;
-	top: 60%;
+	top: 27%;
 	left: 45%;
 }
 
 .flower5 {
 	position: absolute;
-	top: 40%;
+	top: 20%;
 	left: 50%;
 }
 
 .flower6 {
 	position: absolute;
-	top: 55%;
-	left: 45%;
+	top: 40%;
+	left: 15%;
 }
 
 .flower7 {
 	position: absolute;
-	top: 55%;
-	left: 70%;
+	top: 35%;
+	left: 75%;
 }
 
 .flower8 {
 	position: absolute;
-	top: 60%;
+	top: 19%;
 	left: 16%;
 }
 
 .flower9 {
 	position: absolute;
-	top: 65%;
+	top: 50%;
 	left: 60%;
 }
 
 .leaf {
 	position: absolute;
-	top: 62%;
+	top: 20%;
 	left: 38%;
 }
 
 .leaf2 {
 	position: absolute;
-	top: 62%;
+	top: 27%;
 	left: 30%;
 }
 
@@ -155,8 +155,8 @@ nav a:hover {
 	background-image: url("img/Nume pe transparent2.png");
 	background-repeat: no-repeat;
 	margin: auto;
-}*/
-
+}
+*/
 
 /****************
     FOOTER
